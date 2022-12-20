@@ -5,4 +5,6 @@ npm install
 Step2: 
 
 npm run ios 
-![.](src/demo/demo.mp4)
+
+
+![.](src/demo/demo.gid)
