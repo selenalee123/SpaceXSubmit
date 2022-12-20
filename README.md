@@ -7,4 +7,4 @@ Step2:
 npm run ios 
 
 
-![.](src/demo/demo.gid)
+![.](src/demo/demo.gif)
